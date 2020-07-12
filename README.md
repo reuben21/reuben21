@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Technical Skills
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/golang.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
