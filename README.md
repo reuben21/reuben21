@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Technical Skills
-<a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
