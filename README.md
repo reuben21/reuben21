@@ -1,4 +1,4 @@
-<img src="https://github.com/reuben21/reuben21/blob/master/Reuben%20Coutinho.gif" width=200/>
+<img src="https://github.com/reuben21/reuben21/blob/master/Reuben%20Coutinho.gif" width=600/>
 
 <!--
 **reuben21/reuben21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
