@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
 
 <img src="https://img.icons8.com/color/30/000000/golang.png"/><img src="https://img.icons8.com/color/30/000000/swift.png"/><img src="https://img.icons8.com/color/30/000000/react-native.png"/><img src="https://img.icons8.com/color/30/000000/spring-logo.png"/>
-<p align="center"> ![counter](https://enl7ovi6dp0smh5.m.pipedream.net) </p>
+![counter](https://enl7ovi6dp0smh5.m.pipedream.net?style=centerme)
 
