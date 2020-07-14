@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 🖥 Technical Skills 
 
-<img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/30/000000/python.png"/><img src="https://img.icons8.com/color/30/000000/html-5.png"/><img src="https://img.icons8.com/color/30/000000/css3.png"/><img src="https://img.icons8.com/color/30/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/30/000000/c-programming.png"/><img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/color/30/000000/python.png"/><img src="https://img.icons8.com/color/30/000000/html-5.png"/><img src="https://img.icons8.com/color/30/000000/css3.png"/><img src="https://img.icons8.com/color/30/000000/javascript.png"/>
 
 ### 🌱 I’m currently learning
 
