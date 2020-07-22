@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 <br>
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 <img align="right" width="80" height="30" src="https://enl7ovi6dp0smh5.m.pipedream.net">
 </br>
 
