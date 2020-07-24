@@ -1,5 +1,6 @@
-<img src="https://github.com/reuben21/reuben21/blob/master/others/Reuben%20Coutinho.gif?raw=true" width=800 />
+
 <!--
+<img src="https://github.com/reuben21/reuben21/blob/master/others/Reuben%20Coutinho.gif?raw=true" width=800 />
 **reuben21/reuben21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
