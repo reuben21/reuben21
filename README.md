@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.icons8.com/color/30/000000/golang.png"/><img src="https://img.icons8.com/color/30/000000/swift.png"/><img src="https://img.icons8.com/color/30/000000/react-native.png"/><img src="https://img.icons8.com/color/30/000000/spring-logo.png"/>
 
-
+[![Reuben's github stats](https://github-readme-stats.vercel.app/api?username=reuben21)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:  
 <a href="https://www.facebook.com/reuben.coutinho.92"><img src="https://img.icons8.com/color/30/000000/facebook.png"/></a><a href="https://www.instagram.com/reubencoutinho21/"><img src="https://img.icons8.com/color/30/000000/instagram-new.png"/></a><a href="https://www.linkedin.com/in/reuben-c-b89ba295"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
