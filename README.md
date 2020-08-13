@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:  
 <a href="https://www.facebook.com/reuben.coutinho.92"><img src="https://img.icons8.com/color/30/000000/facebook.png"/></a><a href="https://www.instagram.com/reubencoutinho21/"><img src="https://img.icons8.com/color/30/000000/instagram-new.png"/></a><a href="https://www.linkedin.com/in/reuben-c-b89ba295"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
 
-[![Reuben's github stats](https://github-readme-stats.vercel.app/api?username=reuben21&count_private=true)](https://github.com/reuben21/github-readme-stats)
-
 
 <br>
 <img align="right" width="80" height="30" src="https://enl7ovi6dp0smh5.m.pipedream.net">
