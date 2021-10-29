@@ -1,4 +1,6 @@
 
+# Hi, I'm Reuben! 👋
+
 <!--
 <img src="https://github.com/reuben21/reuben21/blob/master/others/Reuben%20Coutinho.gif?raw=true" width=800 />
 <a href="https://reuben21.github.io/reubencoutinho/">Contact Me Here</a>
