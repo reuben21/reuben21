@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am an Information Technology Student based in Mumbai with an interest in Full Stack Development and Mobile App Development. I love to solve problems by using coding and analytical skills. I'm a highly self-motivated, quick learner, and driven to complete a task. I like challenging jobs and am flexible enough to go through any kind of situation.
+I am an currently in the fourth year of Bachelors in Engineering in Information Technology. who is  based in Mumbai with an interest in Software Development. I love to solve problems by using coding and analytical skills. I'm a highly self-motivated, quick learner, and driven to complete a task. I like challenging jobs and am flexible enough to go through any kind of situation.
 
 
 ## 🖥 Technical Skills 
