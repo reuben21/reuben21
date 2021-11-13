@@ -16,7 +16,7 @@ I am currently pursuing Bachelor's in Engineering in Information Technology in M
 
 
 ## 📫 How to reach me:  
-href="https://www.instagram.com/reubencoutinho21/"><img src="https://img.icons8.com/color/30/000000/instagram-new.png"/></a><a href="https://www.linkedin.com/in/reuben-c-b89ba295"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/reubencoutinho21/"><img src="https://img.icons8.com/color/30/000000/instagram-new.png"/></a><a href="https://www.linkedin.com/in/reuben-c-b89ba295"><img src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>
 
 <!--
 <br>
