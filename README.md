@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am an currently in the fourth year of Bachelors in Engineering in Information Technology. who is  based in Mumbai with an interest in Software Development. I love to solve problems by using coding and analytical skills. I'm a highly self-motivated, quick learner, and driven to complete a task. I like challenging jobs and am flexible enough to go through any kind of situation.
+I am currently pursuing Bachelor's in Engineering in Information Technology in Mumbai. I have a keen interest in researching, developing, and improving software in the medical sector. Being self-motivated, I am quick to learn new things with dedication and passion.
 
 
 ## 🖥 Technical Skills 
