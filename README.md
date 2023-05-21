@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am currently pursuing Bachelor's in Engineering in Information Technology in Mumbai. I have a keen interest in researching, developing, and improving software. Being self-motivated, I am quick to learn new things with dedication and passion.
+I am currently pursuing Master of Engineering in Software Engineering from Western University. I have a keen interest in researching, developing, and improving software. Being self-motivated, I am quick to learn new things with dedication and passion.
 
 
 ## 🖥 Technical Skills & Tools
